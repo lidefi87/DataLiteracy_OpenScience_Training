@@ -6,35 +6,92 @@ We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+nationality, personal appearance, race, religion, language, political or other
+opinion, or sexual identity and orientation.
 
 We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+diverse, inclusive, and healthy community. This Code of Conduct will help us
+support a framework to build an environment where we identify and deal with
+discrimination and harassment, thus ensuring all contributors are treated 
+with respect, dignity, and professionalism. We aim to provide equitable 
+opportunities to all contributors, as well as enable and promote learning 
+as a community about any potential issues in creating a safe environment 
+for everyone.
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Below we are listing behaviours that are designed to promote professionalism 
+and a positive environment for our community. We expect this will allow us
+to ensure a positive group experience and to facilitate the formation of a
+community dynamic where we respect and support each other, and are open to 
+feedback if concerns are raised.
+
+Examples of expected behavior include:
 
 * Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
+* Treating everyone in an ethical and professional manner
+* Encouraging and being respectful of differing opinions, viewpoints,
+  and experiences, and allowing all collaborators to express their opinions
+  openly and without judgment, **as long as viewpoints are not discriminatory**
 * Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
+* Asking for help when needed, and respecting those who ask for help
+* Accepting responsibility and apologising to those affected by our mistakes
+  (i.e., breaching the Code of Conduct), learning from the experience and
+  committing to do better
 * Focusing on what is best not just for us as individuals, but for the
   overall community
+* Maintaining a cooperative and collaborative approach to all interactions,
+  ensuring participation and decision-making is fair, inclusive and transparent
+* Refraining from knowingly making false or misleading statements or engaging
+  in activities that could be (or be perceived as) offensive or defamatory to
+  an individual, group, or organisation
+* Recognising and avoiding aggression and microaggression, and disrespectful
+  behaviour such as (but not limited to) misogyny
+* Avoiding the promotion of a culture where enduring unreasonable physical or
+  psychological burdens (or "roughing it") is seen as a rite of passage
+* Recognising the personal and cultural context of others may be different to
+  our own and making efforts to engage with others respectfully within that
+  context
+* Making an effort to learn and understand that culture and knowledge are
+  diverse (e.g., First Nations' knowledge), respecting all forms of knowledge
+  without prioritising a specific kind
+* Being aware of and address potential differences in power, privileges, and
+  values. This could include recognising any colonial histories, cultural
+  biases, and structural marginalisation that may influence your standing in
+  the community, which may shield you from experiencing the prejudice that
+  others face
+* Accepting responsability for reporting potential concerns or issues early,
+  before a situation escalates, regardless of whether the issue is experienced
+  or witness, or the severity of the matter
 
-Examples of unacceptable behavior include:
+Examples of unacceptable behavior that are considered unacceptable in this 
+community include:
 
-* The use of sexualized language or imagery, and sexual attention or
+* Direct discrimination, that is treating someone less favourably because of a
+  personal characteristic or trait
+* Indirect discrimination, which is a criterion or practice that is applied to
+  everyone but adversely affects people with a particular characteristic or trait
+* Failure to make reasonable adjustments to alleviate disadvantages caused by a
+  disability
+* The use of sexualised language or imagery, and sexual attention or
   advances of any kind
 * Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
+* Intimidation, coercion, or manipulation
+* The use of hate speech directed at any group, including a person's gender,
+  gender identity, sexual orientation, disability, physical appearance, body
+  size, race, religion, age, political or other opinion, or national origin
+* Any form of threats, including but not limited to threats of violence,
+  professional discreditation, unwarranted decreases in responsibility, and
+  public embarrassment
+* Public or private harassment based on any personal characteristics
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Retaliation against someone who has complained or has supported someone else's
+  complaint about discrimination or harassment
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+  professional setting or has the purpose of violating someone's dignity or
+  creating an intimidating, hostile, degrading, humiliating, or offensive
+  environment for others
 
 ## Enforcement Responsibilities
 
@@ -60,7 +117,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-lilian.fierroarcos@utas.edu.au.
+lilian.fierroarcos@utas.edu.au. 
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -106,7 +163,7 @@ Violating these terms may lead to a permanent ban.
 ### 4. Permanent Ban
 
 **Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior,  harassment of an
+standards, including sustained inappropriate behavior, harassment of an
 individual, or aggression toward or disparagement of classes of individuals.
 
 **Consequence**: A permanent ban from any sort of public interaction within
@@ -114,8 +171,9 @@ the community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
+This Code of Conduct is adapted from the **SCAR Code of Conduct** available at
+https://scar.org/about-us/values/code-of-conduct, and the 
+[Contributor Covenant][homepage], version 2.0, available at
 https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
