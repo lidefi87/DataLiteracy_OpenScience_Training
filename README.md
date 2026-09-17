@@ -1,4 +1,87 @@
-# Open Science 101 Curriculum
+# Southern Ocean Data Literacy and Open Data Training Material
+In this repository, we will developing training material about Data Literacy and Open Data with a focus on the needs of the Southern Ocean and Antarctic scientific community. This training material is expected to include modules covering topics such as: data management, data standardisation, quality control workflows, metadata standards, and best practices in data sharing (including the application of FAIR principles).
+
+The training material contained in this repository will make use of published training material and adapted to the needs of the Southern Ocean scientific community. Published materials used in this repository are acknowledge in the **Sources** section below.
+
+## How to contribute
+If you are interested in developing the Southern Ocean Data Literacy and Open Data Training Material, you can create an issue in this repository to get in touch with us.
+We are also working on developing a *How to contribute* guide, which will be published by the end of September 2026.
+
+## Modules to be included
+
+### General modules
+These are envisioned to be relevant to a wide audience. They will be designed in a way that are not discipline specific.
+
+#### Module 1 - What is Open Science and why should I care?
+* Open Science principles
+* How can I make my research more open?
+
+#### Module 2 - Data
+* What is data?
+* General data management principles
+
+#### Module 3 - Open Data
+* SCAR Data Policy
+* FAIR principles
+* CARE principles
+* Metadata standards
+* Making data open
+* Citations
+
+#### Module 4 - Open Code
+* Making code open - Guidelines to write "good code"
+* Version control basics: Git and GitHub
+* Citations
+* Versions/Releases
+* Sharing code
+
+#### Module 5 - Licences
+* What are licences?
+* How do I choose one? https://choosealicense.com/
+
+#### Module 6 - Persistent identifiers
+* What are DOIs (Digital Object Identifiers)?
+* How can I get a DOI?
+
+#### Module 7 - Tools supporting Open Science
+* [ARDC assessment tool for FAIR standards](https://ardc.edu.au/resource/fair-data-self-assessment-tool/)
+* [ARDC assessment tool for code reproducibility](https://ardc.edu.au/resource/fair-software-checklist/)
+
+#### Module 8 - Useful links
+* Who to contact about data-related questions or ideas: SOOS, SCADM, etc.
+
+### Biology specific modules
+#### Module B1 - Dictionaries and vocabularies
+
+#### Module B2 - Biology relevant data repositories
+* OBIS, GBIF, Myctobase, CCAMLR, SCARFISH, SKEG
+
+#### Module B3 - Darwin Core Standard (tabular data)
+* Useful R packages:
+  * [Corella](https://corella.ala.org.au/)
+  * [dwctaxon](https://docs.ropensci.org/dwctaxon/)
+  * [LivingNorwayR](https://livingnorway.github.io/LivingNorwayR/index.html)
+* [Data templates from GBIF](https://ipt.gbif.org/manual/en/ipt/latest/how-to-publish)
+
+#### Module B4 - Adapted CF convention for biology (gridded data)
+* Metadata standard for marine ecosystem models and species distribution models
+* Use of UK NERC vocabularies
+
+### Oceanography specific modules
+#### Module O1 - Dictionaries and vocabularies
+
+#### Module O2 - CF convention
+
+
+## Sources
+* [NASA's Open Science 101](https://science.nasa.gov/open-science/training/), which has a CC-BY-4.0 licence
+
+
+## Support
+This project is supported by the Fisheries and Marine 
+
+<!--
+Could include what sources were used for each module
 
 ## Curriculum Overview
 
@@ -48,3 +131,5 @@ A NASA Open Science digital badge is earned by completing all five modules and p
 * [Lesson 3: Making Open Results](./Module_5/Lesson_3)
 * [Lesson 4: Sharing Open Results](./Module_5/Lesson_4)
 * [Lesson 5: From Theory to Practice](./Module_5/Lesson_5)
+
+-->
