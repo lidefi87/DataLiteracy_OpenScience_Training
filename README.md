@@ -1,16 +1,28 @@
 # Southern Ocean Data Literacy and Open Data Training Material
-In this repository, we will developing training material about Data Literacy and Open Data with a focus on the needs of the Southern Ocean and Antarctic scientific community. This training material is expected to include modules covering topics such as: data management, data standardisation, quality control workflows, metadata standards, and best practices in data sharing (including the application of FAIR principles).
+In this repository, we will developing training material about Data Literacy and
+Open Data with a focus on the needs of the Southern Ocean and Antarctic 
+scientific community. This training material is expected to include modules 
+covering topics such as: data management, data standardisation, quality control 
+workflows, metadata standards, and best practices in data sharing (including the
+application of FAIR principles).
 
-The training material contained in this repository will make use of published training material and adapted to the needs of the Southern Ocean scientific community. Published materials used in this repository are acknowledge in the **Sources** section below.
+The training material contained in this repository will make use of published 
+training material and adapted to the needs of the Southern Ocean scientific 
+community. Published materials used in this repository are acknowledged in the 
+**Sources** section below.
 
 ## How to contribute
-If you are interested in developing the Southern Ocean Data Literacy and Open Data Training Material, you can create an issue in this repository to get in touch with us.
-We are also working on developing a *How to contribute* guide, which will be published by the end of September 2026.
+If you are interested in developing the Southern Ocean Data Literacy and Open 
+Data Training Material, you can create an issue in this repository to get in 
+touch with us.
+We are also working on developing a *How to contribute* guide, which will be 
+published by the end of September 2026.
 
 ## Modules to be included
 
 ### General modules
-These are envisioned to be relevant to a wide audience. They will be designed in a way that are not discipline specific.
+These are envisioned to be relevant to a wide audience. They will be designed 
+in a way that are not discipline specific.
 
 #### Module 1 - What is Open Science and why should I care?
 * Open Science principles
@@ -74,11 +86,15 @@ These are envisioned to be relevant to a wide audience. They will be designed in
 
 
 ## Sources
-* [NASA's Open Science 101](https://science.nasa.gov/open-science/training/), which has a CC-BY-4.0 licence
+* [NASA's Open Science 101](https://science.nasa.gov/open-science/training/), 
+which has a CC-BY-4.0 licence
 
 
 ## Support
-This project is supported by the Fisheries and Marine 
+This project is supported by the Southern Ocean Marine Ecosystem Model Ensemble
+(SOMEME) project, which is an initiative from the
+[Fisheries and Marine Ecosystem Model Intercomparison Project (FishMIP)](https://fishmip.org/).
+
 
 <!--
 Could include what sources were used for each module
