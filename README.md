@@ -36,6 +36,7 @@ in a way that are not discipline specific.
 * SCAR Data Policy
 * FAIR principles
 * CARE principles
+* TRUST principles
 * Metadata standards
 * Making data open
 * Citations
